@@ -344,8 +344,7 @@ logs/
 *.log
 
 # MinHook binaries (download separately)
-libs/MinHook/lib/*.lib
-libs/MinHook/lib/*.a
+
 
 # Temporary files
 temp/

@@ -31,6 +31,10 @@
     <Optimize>true</Optimize>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
   <ItemGroup>
     <None Remove="icon.ico" />
   </ItemGroup>
